@@ -1,7 +1,7 @@
 from azure.storage.blob import BlobClient
 
 accountURL = 'https://adlsbreakoutroom2.blob.core.windows.net/'
-account_key = '0veYFcTs1570XMAOc7yNZOuDckYrgabjCCTldEevjS4hj24gvvM3t8qUzvAZHEREt3yMuqp4GDOWNGwFuSCcPg=='
+account_key = '<account-key>'
 container_name ='taxidata'
 name = 'aug_uber_2014.csv'
 link = 'https://raw.githubusercontent.com/fivethirtyeight/uber-tlc-foil-response/63bb878b76f47f69b4527d50af57aac26dead983/uber-trip-data/uber-raw-data-aug14.csv'
